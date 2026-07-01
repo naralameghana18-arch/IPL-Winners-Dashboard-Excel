@@ -32,7 +32,7 @@ This project is an interactive Microsoft Excel dashboard that analyzes IPL data 
 - Data Storytelling
 
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here.)
+(IPL_Dashboard.png)
 
 ## 🚀 Author
 **Meghana Narala**
